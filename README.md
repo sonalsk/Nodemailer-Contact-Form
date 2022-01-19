@@ -3,8 +3,6 @@
 ## About
 A contact form to send emails.
 
-![Screenshot from 2022-01-18 22-42-55](https://user-images.githubusercontent.com/51206050/149985712-a3843195-2f29-444c-95e4-156e0019b72c.png)
-
 ## Tech Stack
 
 ### Front End
